@@ -1,0 +1,80 @@
+html{font-size:62.5%;}
+body{
+	background-color: rgb(239,240,244);
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: rgb(95,192,205);
+	height: 4.6rem;
+}
+.register{
+	float:left;
+	color: white;
+	font-size: 1.4rem;
+	margin: 1.4rem 0 0 1rem;
+	cursor:pointer;
+}
+.close{
+	float: right;
+	color: white;
+	font-size: 1.4rem;
+	margin: 1.4rem 1rem 0 0;
+	cursor:pointer;
+}
+.login1{
+	color: white;
+	font-size: 1.6rem;
+	font-weight: bold;
+	text-align: center;
+	padding: 1.2rem 0 0 0;
+	margin: 0 10rem;
+}
+.middle{
+	background-color: rgb(255,255,255);
+	height: 5rem;
+	margin: 1rem 0;
+	cursor: text;
+}
+.account{
+	padding: 0.5rem 0 0.5rem 8rem;
+	font-size: 1.4rem;
+	border: none;
+	width: 100%;
+	height: 5rem;
+	box-sizing: border-box;
+	background: url(../img/Task4-1.png)no-repeat;
+	background-size: 7.9rem 5.1rem;
+}
+.password{
+	padding: 0.5rem 0 0.5rem 8rem;
+	font-size: 1.4rem;
+	border: none;
+	width: 100%;
+	height: 5rem;
+	box-sizing: border-box;
+	background: url(../img/Task4-2.png)no-repeat;
+	background-size: 7.9rem 5rem;
+}
+.img{
+	float: left;
+}
+.footer{
+	background-color: rgb(95,192,205);
+	height: 5rem;
+	cursor:pointer;
+	text-align: center;
+}
+.login2{
+	color: white;
+	font-size: 1.6rem;
+	padding: 1.5rem 1.5rem 0 0;
+}
+.forget{
+	color:rgb(95,192,205);
+	text-decoration:underline;
+	float: right;
+	font-size: 1.2rem;
+	margin: 1.2rem;
+	cursor:pointer;
+}
