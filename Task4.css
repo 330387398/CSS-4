@@ -4,25 +4,27 @@ body{
 	margin: 0;
 	padding: 0;
 }
-.header{
+header{
 	background-color: rgb(95,192,205);
 	height: 4.6rem;
 }
-.register{
+h1{
 	float:left;
 	color: white;
 	font-size: 1.4rem;
 	margin: 1.4rem 0 0 1rem;
 	cursor:pointer;
+	font-weight: normal;
 }
-.close{
+h2{
 	float: right;
 	color: white;
 	font-size: 1.4rem;
 	margin: 1.4rem 1rem 0 0;
 	cursor:pointer;
+	font-weight: normal;
 }
-.login1{
+h3{
 	color: white;
 	font-size: 1.6rem;
 	font-weight: bold;
@@ -30,7 +32,7 @@ body{
 	padding: 1.2rem 0 0 0;
 	margin: 0 10rem;
 }
-.middle{
+main{
 	background-color: rgb(255,255,255);
 	height: 5rem;
 	margin: 1rem 0;
@@ -59,18 +61,18 @@ body{
 .img{
 	float: left;
 }
-.footer{
+footer{
 	background-color: rgb(95,192,205);
 	height: 5rem;
 	cursor:pointer;
 	text-align: center;
 }
-.login2{
+.login{
 	color: white;
 	font-size: 1.6rem;
 	padding: 1.5rem 1.5rem 0 0;
 }
-.forget{
+forget{
 	color:rgb(95,192,205);
 	text-decoration:underline;
 	float: right;
